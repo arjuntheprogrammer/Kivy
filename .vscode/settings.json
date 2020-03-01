@@ -1,0 +1,9 @@
+{
+    // "python.venvPath": "/Users/arjungupta/Documents/MyProjects/virenv/",
+    "python.venvFolders": [
+        "virenv"
+    ],
+    // "python.pythonPath": "/Users/arjungupta/Documents/MyProjects/env/bin/python"
+    "python.pythonPath": "/Users/arjungupta/Documents/MyProjects/virenv/bin/python"
+
+}
