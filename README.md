@@ -26,3 +26,14 @@ $ python -m pip install kivy
 8. Login
 
 ---
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/15984084/75632278-9105b280-5c20-11ea-8204-854cd296d94b.png)
+
+
+![image](https://user-images.githubusercontent.com/15984084/75632292-a5e24600-5c20-11ea-9db0-755a8ef78138.png)
+
+![image](https://user-images.githubusercontent.com/15984084/75632297-af6bae00-5c20-11ea-9e5c-8da9ff45c693.png)
+
+---
