@@ -8,8 +8,9 @@
 ---
 
 ## Installation
-$ python -m  pip install virtualenv
-$ virtualenv virenv -p python3.6
+$ python3 -m  pip install virtualenv
+$ python3 -m venv ./venv
+$ source venv/bin/activate
 $ python -m pip install kivy
 
 ---
